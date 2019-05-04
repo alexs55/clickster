@@ -1,6 +1,5 @@
 .card {
     background: #fff;
-    border-radius: 2px;
     height: 250px;
     margin: 1rem;
     position: relative;
@@ -10,14 +9,25 @@
   }
   
   .card > .img-container {
-    height: 100%;
-    overflow: hidden;
     text-align: center;
-    background:#6CADDC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    width: 100%
+    
+   
   }
-  .card > .img-container > img {
-    width: 60%
+
+  img {
+    width: 325px;
+    height: 250px;
   }
+
+  image:hover{
+    
+  }
+   
   
   .card > .content {
     padding-left: 1rem;

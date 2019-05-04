@@ -1,83 +1,83 @@
 [{
     "id": 1,
     "name": "Cosmog",
-    "image": "./src/images/cosmog.png",
+    "image": "https://github.com/alexs55/clickster/blob/master/src/images/cosmog.png?raw=true",
     "Count": 0
 },{
     "id": 2,
     "name": "Darkrai",
-    "image": "./src/images/darkrai.png",
+    "image": "https://github.com/alexs55/clickster/blob/master/src/images/darkrai.png?raw=true",
     "Count": 0
 },{
     "id": 3,
     "name": "Deoxys",
-    "image": "./src/images/deoxys.png",
+    "image": "https://github.com/alexs55/clickster/blob/master/src/images/deoxys.png?raw=true",
     "Count": 0
 },{
     "id": 4,
     "name": "Dialga",
-    "image": "./src/images/dialga.png",
+    "image": "https://github.com/alexs55/clickster/blob/master/src/images/dialga.png?raw=true",
     "Count": 0
 },{
     "id": 5,
     "name": "Gardevoir",
-    "image": "./src/images/gardevoir.png",
+    "image": "https://github.com/alexs55/clickster/blob/master/src/images/gardevoir.png?raw=true",
     "Count": 0
 },{
     "id": 6,
     "name": "Ho-oh",
-    "image": "./src/images/ho-oh.png",
+    "image": "https://github.com/alexs55/clickster/blob/master/src/images/ho-oh.png?raw=true",
     "Count": 0
 },{
     "id": 7,
     "name": "Jirachi",
-    "image": "./src/images/jirachi.png",
+    "image": "https://github.com/alexs55/clickster/blob/master/src/images/jirachi.png?raw=true",
     "Count": 0
 },{
     "id": 8,
     "name": "Latias",
-    "image": "./src/images/latias.png",
+    "image": "https://github.com/alexs55/clickster/blob/master/src/images/latias.png?raw=true",
     "Count": 0
 },{
     "id": 9,
     "name": "Lugia",
-    "image": "./src/images/lugia.png",
+    "image": "https://github.com/alexs55/clickster/blob/master/src/images/lugia.png?raw=true",
     "Count": 0
 },{
     "id": 10,
     "name": "Lunala",
-    "image": "./src/images/lunala.png",
+    "image": "https://github.com/alexs55/clickster/blob/master/src/images/lunala.png?raw=true",
     "Count": 0
 },{
     "id": 11,
     "name": "Milotic",
-    "image": "./src/images/milotic.png",
+    "image": "https://github.com/alexs55/clickster/blob/master/src/images/milotic.png?raw=true",
     "Count": 0
 },{
     "id": 12,
     "name": "Regice",
-    "image": "./src/images/regice.png",
+    "image": "https://github.com/alexs55/clickster/blob/master/src/images/regice.png?raw=true",
     "Count": 0
 },{
     "id": 13,
     "name": "Salamence",
-    "image": "./src/images/salamence.png",
+    "image": "https://github.com/alexs55/clickster/blob/master/src/images/salamence.png?raw=true",
     "Count": 0
 },{
     "id": 14,
     "name": "Solgaleo",
-    "image": "./src/images/solgaleo.png",
+    "image": "https://github.com/alexs55/clickster/blob/master/src/images/solgaleo.png?raw=true",
     "Count": 0
 },{
     "id": 15,
     "name": "tapu-fini",
-    "image": "./src/images/tapu-fini.png",
+    "image": "https://github.com/alexs55/clickster/blob/master/src/images/tapu-fini.png?raw=true",
     "Count": 0
 
 },{
     "id": 16,
     "name": "Wobbufett",
-    "image": "./src/images/wobbufett.png",
+    "image": "https://github.com/alexs55/clickster/blob/master/src/images/wobbufett.png?raw=true",
     "Count": 0
 }
 ]
