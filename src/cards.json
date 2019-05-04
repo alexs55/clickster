@@ -1,0 +1,83 @@
+[{
+    "id": 1,
+    "name": "Cosmog",
+    "image": "./src/images/cosmog.png",
+    "Count": 0
+},{
+    "id": 2,
+    "name": "Darkrai",
+    "image": "./src/images/darkrai.png",
+    "Count": 0
+},{
+    "id": 3,
+    "name": "Deoxys",
+    "image": "./src/images/deoxys.png",
+    "Count": 0
+},{
+    "id": 4,
+    "name": "Dialga",
+    "image": "./src/images/dialga.png",
+    "Count": 0
+},{
+    "id": 5,
+    "name": "Gardevoir",
+    "image": "./src/images/gardevoir.png",
+    "Count": 0
+},{
+    "id": 6,
+    "name": "Ho-oh",
+    "image": "./src/images/ho-oh.png",
+    "Count": 0
+},{
+    "id": 7,
+    "name": "Jirachi",
+    "image": "./src/images/jirachi.png",
+    "Count": 0
+},{
+    "id": 8,
+    "name": "Latias",
+    "image": "./src/images/latias.png",
+    "Count": 0
+},{
+    "id": 9,
+    "name": "Lugia",
+    "image": "./src/images/lugia.png",
+    "Count": 0
+},{
+    "id": 10,
+    "name": "Lunala",
+    "image": "./src/images/lunala.png",
+    "Count": 0
+},{
+    "id": 11,
+    "name": "Milotic",
+    "image": "./src/images/milotic.png",
+    "Count": 0
+},{
+    "id": 12,
+    "name": "Regice",
+    "image": "./src/images/regice.png",
+    "Count": 0
+},{
+    "id": 13,
+    "name": "Salamence",
+    "image": "./src/images/salamence.png",
+    "Count": 0
+},{
+    "id": 14,
+    "name": "Solgaleo",
+    "image": "./src/images/solgaleo.png",
+    "Count": 0
+},{
+    "id": 15,
+    "name": "tapu-fini",
+    "image": "./src/images/tapu-fini.png",
+    "Count": 0
+
+},{
+    "id": 16,
+    "name": "Wobbufett",
+    "image": "./src/images/wobbufett.png",
+    "Count": 0
+}
+]

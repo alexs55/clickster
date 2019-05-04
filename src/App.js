@@ -1,8 +1,10 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, {Component} from 'react';
 import './App.css';
 import Jumbotron from './components/Jumbotron';
-import Header from './components/header';
+import Header from './components/Header';
+import Card from './components/Card';
+import Wrapper from './components/Wrapper'
+import cards from './cards.json';
 
 
 class App extends Component {
@@ -19,7 +21,7 @@ class App extends Component {
       });
     }
     this.state.cards.forEach(card => {
-      card.count = 0;
+      card.Count = 0;
     });
     alert(`Game Over :( \nscore: ${this.state.score}`);
     this.setState({score: 0});
@@ -29,8 +31,8 @@ class App extends Component {
   clickCount = id => {
     this.state.cards.find((o, i) => {
       if (o.id === id) {
-        if(cards[i].count === 0){
-          cards[i].count = cards[i].count + 1;
+        if(cards[i].Count === 0){
+          cards[i].Count = cards[i].Count + 1;
           this.setState({score : this.state.score + 1}, function(){
             console.log(this.state.score);
           });
@@ -42,19 +44,22 @@ class App extends Component {
       }
     });
   }
+
   render() {
-    return (
-      <Wrapper>
+    return (<div>
         <Header score={this.state.score} highscore={this.state.highscore}>Clicky Game</Header>
+        <Jumbotron />
+      <Wrapper>
         {this.state.cards.map(card => (
           <Card
-            clickCount={this.clickCount}
-            id={card.id}
-            key={card.id}
-            image={card.image}
+          id={card.id}
+          key={card.id}
+          image={card.image}
+          clickCount={this.Count}
           />
         ))}
       </Wrapper>
+        </div>
     );
   }
 

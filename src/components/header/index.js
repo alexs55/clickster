@@ -1,10 +1,12 @@
 import React from "react";
+import './header.css'
 
-function Header() {
-    return (
-        <nav class="navbar"><ul><li class="brand"><a href="/">Clicky Game</a></li><li class="">You guessed incorrectly!</li><li>Score: 0 | Top Score: 6</li></ul></nav>
+
+const Header = props =>(
+     
+        <nav className="navbar"><ul><li className="title"><a href="/">Clicky Game</a></li><li className="">You guessed incorrectly!</li><li className="scores">Score: {props.score} | Top Score: {props.highscore}</li></ul></nav>
     );
-}
+
 
 export default Header;
 
