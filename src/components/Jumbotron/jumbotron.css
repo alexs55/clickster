@@ -1,0 +1,12 @@
+.jumbotron{
+    background-image: url("http://getwallpapers.com/wallpaper/full/a/8/1/44745.jpg");
+    background-size: cover;
+    overflow: hidden;
+    background-position-y: center;
+    font-family: 'Modak', cursive;
+    font-size: 65px;
+    color: rgb(247, 145, 12);
+    
+
+
+}

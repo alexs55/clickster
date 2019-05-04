@@ -8,4 +8,7 @@
     justify-content: space-around;
     align-content: flex-start;
     overflow: auto;
-  }
+    background-image: url("http://i.imgur.com/grh8U.jpg");
+    background-size: cover;
+    
+}

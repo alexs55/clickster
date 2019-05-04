@@ -1,12 +1,15 @@
 import React from "react";
+import "./jumbotron.css";
 
 function Jumbotron({ children }) {
   return (
     <div
-      style={{ height: 300, clear: "both", paddingTop: 120, textAlign: "center" }}
+      style={{ height: 300, clear: "both",  textAlign: "center", margin: 0 }}
       className="jumbotron"
     >
-     Hello
+     Click any image to start.
+
+     Dont click an image more than once to win!
     </div>
   );
 }

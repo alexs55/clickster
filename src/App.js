@@ -23,7 +23,7 @@ class App extends Component {
     this.state.cards.forEach(card => {
       card.Count = 0;
     });
-    alert(`Game Over :( \nscore: ${this.state.score}`);
+    alert(`Try Again :( \nscore: ${this.state.score}`);
     this.setState({score: 0});
     return true;
   }
@@ -55,7 +55,7 @@ class App extends Component {
           id={card.id}
           key={card.id}
           image={card.image}
-          clickCount={this.Count}
+          clickCount={this.clickCount}
           />
         ))}
       </Wrapper>

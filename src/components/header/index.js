@@ -4,7 +4,7 @@ import './header.css'
 
 const Header = props =>(
      
-        <nav className="navbar"><ul><li className="title"><a href="/">Clicky Game</a></li><li className="">You guessed incorrectly!</li><li className="scores">Score: {props.score} | Top Score: {props.highscore}</li></ul></nav>
+        <nav className="header"><ul><li className="title"><a href="/">Poke-Click</a></li><li className="scores">Score: {props.score} | Top Score: {props.highscore}</li></ul></nav>
     );
 
 
