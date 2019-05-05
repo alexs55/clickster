@@ -8,8 +8,7 @@ function Jumbotron({ children }) {
       className="jumbotron"
     >
      Click any image to start.
-
-     Dont click an image more than once to win!
+     Don't click an image more than once to increase your high score!
     </div>
   );
 }
