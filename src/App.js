@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import Jumbotron from './components/Jumbotron';
-import Header from './components/Header';
+import Header from './components/hue';
 import Card from './components/Card';
 import Wrapper from './components/Wrapper'
 import cards from './cards.json';
